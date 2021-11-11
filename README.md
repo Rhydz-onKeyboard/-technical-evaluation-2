@@ -4,10 +4,13 @@
 
 ## How does it work?
 
-    - Main.js creates a new class instance and calls the getMostHiredInsuranceLast24Hrs method.
-    - Internally the method obtains the data of the company's services.
-    - It also manipulates the data to obtain the repeated elements, order them to generate the top five and cross the list to generate the search in the insurance list.
-    - Finally, it shows by console the five most contracted insurances.
+Main.js creates a new class instance and calls the getMostHiredInsuranceLast24Hrs method.
+
+Internally the method obtains the data of the company's services.
+
+It also manipulates the data to obtain the repeated elements, order them to generate the top five and cross the list to generate the search in the insurance list.
+
+Finally, it shows by console the five most contracted insurances.
 
 
 ## Installation instructions.
